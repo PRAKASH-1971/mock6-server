@@ -9,7 +9,14 @@
      "desc":"Suzuki car manual 6 speed",
      "price":6 
     },
-    {
+     {
+     "id":2,
+     "brand":"Toyota",
+     "gair":"Automatic",
+     "year":2014,
+     "kms":100025,
+     "desc":"Toyota car automatic 7 speed",
+     "price":8 
     }
   ]
 }
